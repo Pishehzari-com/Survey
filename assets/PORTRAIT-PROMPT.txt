@@ -1,0 +1,9 @@
+پرامپت عکس پرتره (برای ساخت با ابزار تصویرساز، سپس جایگزینی assets/portrait.jpg با خروجی مربع):
+
+Create a premium, photorealistic corporate portrait of the exact male subject from the provided reference photographs, for a professional land surveying and geomatics engineering website.
+CRITICAL IDENTITY PRESERVATION: Preserve the subject's original face and identity exactly. Do not alter his facial structure, skin tone, hairstyle, beard, moustache, eyebrows, nose, lips, or any recognizable facial characteristics. Do not beautify, reconstruct, replace, or reinterpret his face.
+Wardrobe: clean white industrial safety helmet, neat navy-blue engineering jacket or work uniform, realistic work details.
+Environment: real construction surveying site, professional total station on a tripod, subtle topographic terrain, softly blurred engineering project in the background.
+Composition: vertical 4:5 portrait (then crop to 1:1 for the site), waist-up, standing beside the instrument, face clearly visible and unobstructed.
+Photography: natural daylight, realistic skin texture, navy and neutral-gray palette, refined depth of field.
+Negative: no face changes, no identity drift, no extra fingers, no distorted equipment, no fake text, no logos, no watermarks, no CGI look.
